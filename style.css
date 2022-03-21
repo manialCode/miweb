@@ -1,0 +1,7 @@
+body {
+    background: local;
+}
+
+body:hover {
+    background: #2416eb;
+}
